@@ -4,7 +4,7 @@
 const Express = require("express");
 const app = Express();
 const bodyParser = require("body-parser");
-const dotEnv = require("dotenv");
+
 
 /******************
  * Routes
